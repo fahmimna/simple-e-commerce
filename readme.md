@@ -57,7 +57,7 @@ Methods:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/fahmimna/simple-commerce.git
+   git clone https://github.com/fahmimna/simple-e-commerce.git
 
 # SOAL
 
